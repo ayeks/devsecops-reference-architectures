@@ -74,3 +74,18 @@ The Toolkit summarizes the techniques they use to mitigate risk, and also provid
 Fully annotated DevSecOps cycle with threat modeling, code review, abuse case tests, pentest, compliance validation, config validation, logging, monitoring, intrusion detection.
 
 ![2017-devsecops-cycle-maccherone](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2017-devsecops-cycle-maccherone.JPG)
+
+## Practical DevSecOps / DevSecOps Studio Project - TeachEra - 2017
+
+[Teachera - DevSecOps Course](https://www.teachera.io/devsecops-course/),
+[Practical DevSecOps Course - Part 1 - Slideshare](https://www.slideshare.net/secfigo/practical-devsecops-course-part-1-82334619),
+[DevSecOps Studio Project - GitHub](https://github.com/teacheraio/DevSecOps-Studio/)
+
+DevSecOps Studio is one of its kind, self contained DevSecOps environment/distribution to help individuals in learning DevSecOps concepts. It takes lots of efforts to setup the environment for training/demos and more often, its error prone when done manually. DevSecOps Studio is easy to get started, mostly automatic and battle tested during our Free Practical DevSecOps Course. DevSecOps Studio project aims to reduce the time to bootstrap the environment and help you in concentrating on learning/teaching DevSecOps practices.
+
+Software Stack: [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project), [Gauntlt](http://gauntlt.org/), [Bandit](https://github.com/PyCQA/bandit), [brakeman](https://brakemanscanner.org/), [Metasploit](https://www.metasploit.com/), [Nmap](https://nmap.org/), [Findbugs](http://findbugs.sourceforge.net/), [DevSec Ansible OS Hardening](https://github.com/dev-sec/ansible-os-hardening), [Inspec](https://www.inspec.io/), [Docker](https://www.docker.com/), [GitLab](https://about.gitlab.com/), [Jenkins](https://jenkins.io/), [Ansible](https://www.ansible.com/), [Elastic](https://www.elastic.co/)
+
+![2017-devsecops-teachera](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2017-devsecops-teachera.JPG)
+
+![2017-devsecops-teachera-devsecops-studio](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2017-devsecops-teachera-devsecops-studio.png)
+
