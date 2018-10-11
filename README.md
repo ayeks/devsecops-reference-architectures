@@ -53,4 +53,11 @@ Software Stack: [Docker](https://www.docker.com/), [Jira](https://de.atlassian.c
 
 ![2017-garciga-2](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2017-garciga-2.JPG)
 
+### DevOps Audit Defense Toolkit - IT Revolution - 2015
 
+[DevOps Audit Defense Toolkit - IT Revolution](https://itrevolution.com/devops-audit-defense-toolkit/)
+[DevOps Audit Defense Toolkit - PDF Link](https://dl.orangedox.com/audit-defense)
+
+The Toolkit summarizes the techniques they use to mitigate risk, and also provides a section answering the most common questions about value creation, compliance, and DevOps. The information in this document should help organizations wanting to pursue DevOps and continuous delivery explain their approach and improve communication between IT and audit
+
+![2015-audit-defense](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2015-audit-defense.JPG)
