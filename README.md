@@ -25,10 +25,21 @@ Please provide the following data for new architectures:
 
 The OWASP AppSec Rugged DevOps Pipeline Project is the place to find the information you need to increase the speed and automation of your AppSec program. Using the sample implementation, documentation and references of this project will allow you to setup your own AppSec Pipeline.
 
-Software Stack: Bandit, OWASP Dependency-Check, Checkmarx, SSLLabs, Arachni, wappalyzer, Synk, WPScan, brakeman, OWASP ZAP
+Software Stack: [Bandit](https://github.com/PyCQA/bandit), [OWASP Dependency-Check](https://www.owasp.org/index.php/OWASP_Dependency_Check), [Checkmarx](https://www.checkmarx.com/), [SSLLabs](https://www.ssllabs.com/), [Arachni](http://www.arachni-scanner.com/), [wappalyzer](https://www.wappalyzer.com/), [Synk](https://snyk.io/), [WPScan](https://wpscan.org/), [brakeman](https://brakemanscanner.org/), [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project), [Retire.js](http://retirejs.github.io/retire.js/)
 
 ![2015-owasp-appsec](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2015-owasp-appsec.png)
 
+### DevOpsSec - Jim Bird - 2016
+
+[DevOpsSec - Jim Bird - O'Reilly Media](https://www.oreilly.com/library/view/devopssec/9781491971413/)
+
+How do you build security and compliance into your DevOps platforms and pipelines? With this O’Reilly report, security analysts, security engineers, and pen testers will learn how to leverage the same processes and tools—such as version control, containers, and Continuous Delivery—that DevOps practitioners use to automate software delivery and infrastructure changes. In other words, you’ll understand how to use DevOps to secure DevOps.
+
+Software Stack: [Upguard](https://www.upguard.com/), [Gauntlt](http://gauntlt.org/), [OWASP Dependency-Check](https://www.owasp.org/index.php/OWASP_Dependency_Check), [Bundler Audit](https://github.com/rubysec/bundler-audit), [Retire.js](http://retirejs.github.io/retire.js/), [OWASP SafeNuGet](https://www.owasp.org/index.php/OWASP_SafeNuGet), [Gerrit](https://www.gerritcodereview.com/), [Phabricator](https://www.phacility.com/), [Atlassian Crucible](https://www.atlassian.com/software/crucible), [Sonarqube](https://www.sonarqube.org/), [OWASP ZAP](https://www.owasp.org/index.php/ZAP), [Mittn](https://github.com/F-Secure/mittn), [Chef Vault](https://github.com/chef/chef-vault), [Keywhiz](https://github.com/square/keywhiz), [HashiCorp Vault](https://www.vaultproject.io/), [Netflix SimianArmy](https://github.com/Netflix/SimianArmy), [Signal Sciences](https://www.signalsciences.com/products/), [Alert Logic](https://www.alertlogic.com/), [CloudPassage Halo](https://www.cloudpassage.com/products/), [Dome9 SecOps](https://dome9.com/), [Evident](https://www.paloaltonetworks.com/products/secure-the-cloud/evident.html), [Illumio](https://www.illumio.com/), [Threat Stack](https://www.threatstack.com/), [Waratek](https://www.waratek.com/), [Prevoty](https://www.prevoty.com/), [Contrast Security](https://www.contrastsecurity.com/runtime-application-self-protection-rasp), [tCell](https://www.tcell.io/), [Twistlock](https://www.twistlock.com/),  [DevOps Audit Defense Toolkit](https://itrevolution.com/devops-audit-defense-toolkit/), 
+
+![2016-bird-1](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2016-bird-1.JPG)
+
+![2016-bird-2](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2016-bird-2.JPG)
 
 ### US Defense Threat Reduction Agency - Joint Improvised Thread Defeat Organisation - Leo Garciga - 2017
 
@@ -36,7 +47,7 @@ Software Stack: Bandit, OWASP Dependency-Check, Checkmarx, SSLLabs, Arachni, wap
 
 The talk goes into detail why they went DevOps, how DevOps can be secure according to NIST SP 800, how automation prevents human error and reduces human delay.
 
-Software Stack: Docker, Jira, Jenkins, Selenium, Twistlock, Sonarqube, Sonatype, Maven
+Software Stack: [Docker](https://www.docker.com/), [Jira](https://de.atlassian.com/software/jira), [Jenkins](https://jenkins.io/), [Selenium](https://www.seleniumhq.org/), [Twistlock](https://www.twistlock.com/), [Sonarqube](https://www.sonarqube.org/), [Sonatype](https://www.sonatype.com/), [Maven](https://maven.apache.org/)
 
 ![2017-garciga-1](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2017-garciga-1.JPG)
 
