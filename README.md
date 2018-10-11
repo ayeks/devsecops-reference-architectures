@@ -16,6 +16,18 @@ Please provide the following data for new architectures:
 
 ## Architectures
 
+
+### OWASP AppSec Rugged DevOps Pipeline Project - 2015
+
+[OWASP AppSec Pipeline](https://www.owasp.org/index.php/OWASP_AppSec_Pipeline)
+[OWASP AppSec Pipeline Talks](https://www.owasp.org/index.php/OWASP_AppSec_Pipeline#tab=Presentations)
+[GitHub Repository incl. Docker containers](https://github.com/appsecpipeline/AppSecPipeline-Specification)
+
+The OWASP AppSec Rugged DevOps Pipeline Project is the place to find the information you need to increase the speed and automation of your AppSec program. Using the sample implementation, documentation and references of this project will allow you to setup your own AppSec Pipeline.
+
+![2015-owasp-appsec](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2015-owasp-appsec.png)
+
+
 ### US Defense Threat Reduction Agency - Joint Improvised Thread Defeat Organisation - Leo Garciga - 2017
 
 [All Day DevOps 2017 - Youtube](https://www.youtube.com/watch?v=LNL5J6gIkv0)
