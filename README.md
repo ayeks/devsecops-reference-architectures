@@ -24,8 +24,8 @@ Summary: The talk goes into detail why they went DevOps, how DevOps can be secur
 
 Software Stack: Docker, Jira, Jenkins, Selenium, Twistlock, Sonarqube, Sonatype, Maven
 
-![2017-garciga-1](/img/2017-garciga-1.jpg)
+![2017-garciga-1](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2017-garciga-1.JPG)
 
-![2017-garciga-2](/img/2017-garciga-2.jpg)
+![2017-garciga-2](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2017-garciga-2.JPG)
 
 
