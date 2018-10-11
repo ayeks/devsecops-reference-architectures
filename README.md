@@ -19,11 +19,13 @@ Please provide the following data for new architectures:
 
 ### OWASP AppSec Rugged DevOps Pipeline Project - 2015
 
-[OWASP AppSec Pipeline](https://www.owasp.org/index.php/OWASP_AppSec_Pipeline)
-[OWASP AppSec Pipeline Talks](https://www.owasp.org/index.php/OWASP_AppSec_Pipeline#tab=Presentations)
+[OWASP AppSec Pipeline](https://www.owasp.org/index.php/OWASP_AppSec_Pipeline), 
+[OWASP AppSec Pipeline Talks](https://www.owasp.org/index.php/OWASP_AppSec_Pipeline#tab=Presentations), 
 [GitHub Repository incl. Docker containers](https://github.com/appsecpipeline/AppSecPipeline-Specification)
 
 The OWASP AppSec Rugged DevOps Pipeline Project is the place to find the information you need to increase the speed and automation of your AppSec program. Using the sample implementation, documentation and references of this project will allow you to setup your own AppSec Pipeline.
+
+Software Stack: Bandit, OWASP Dependency-Check, Checkmarx, SSLLabs, Arachni, wappalyzer, Synk, WPScan, brakeman, OWASP ZAP
 
 ![2015-owasp-appsec](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2015-owasp-appsec.png)
 
@@ -32,7 +34,7 @@ The OWASP AppSec Rugged DevOps Pipeline Project is the place to find the informa
 
 [All Day DevOps 2017 - Youtube](https://www.youtube.com/watch?v=LNL5J6gIkv0)
 
-Summary: The talk goes into detail why they went DevOps, how DevOps can be secure according to NIST SP 800, how automation prevents human error and reduces human delay.
+The talk goes into detail why they went DevOps, how DevOps can be secure according to NIST SP 800, how automation prevents human error and reduces human delay.
 
 Software Stack: Docker, Jira, Jenkins, Selenium, Twistlock, Sonarqube, Sonatype, Maven
 
