@@ -1,6 +1,6 @@
 # DevSecOps Reference Architectures
 
-This is a collection of DevSecOps reference architectures. I was tired of crawling through low resolution slideshares and email-grabbing web forms, therefore I started this repo to share reference architectures - for free - for everyone.
+This is a collection of DevSecOps reference architectures. I was tired of crawling through low resolution slideshares and email-grabbing web forms, therefore I started this repo to share reference architectures - for free - for everyone - for contributing.
 
 ### Contributing
 
@@ -20,10 +20,9 @@ Thanks to [Sonatype](https://sonatype.com) and their [reference architecture sli
 
 Most of the referenced tools can be found in the more structured [Awesome DevSecOps list](https://github.com/devsecops/awesome-devsecops).
 
-## Architectures
+# Architectures
 
-
-### OWASP AppSec Rugged DevOps Pipeline Project - 2015
+## OWASP AppSec Rugged DevOps Pipeline Project - 2015
 
 [OWASP AppSec Pipeline](https://www.owasp.org/index.php/OWASP_AppSec_Pipeline), 
 [OWASP AppSec Pipeline Talks](https://www.owasp.org/index.php/OWASP_AppSec_Pipeline#tab=Presentations), 
@@ -35,7 +34,7 @@ Software Stack: [Bandit](https://github.com/PyCQA/bandit), [OWASP Dependency-Che
 
 ![2015-owasp-appsec](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2015-owasp-appsec.png)
 
-### DevOpsSec - Jim Bird - 2016
+## DevOpsSec - Jim Bird - 2016
 
 [DevOpsSec - Jim Bird - O'Reilly Media](https://www.oreilly.com/library/view/devopssec/9781491971413/)
 
@@ -47,7 +46,7 @@ Software Stack: [Upguard](https://www.upguard.com/), [Gauntlt](http://gauntlt.or
 
 ![2016-bird-2](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2016-bird-2.JPG)
 
-### US Defense Threat Reduction Agency - Joint Improvised Thread Defeat Organisation - Leo Garciga - 2017
+## US Defense Threat Reduction Agency - Joint Improvised Thread Defeat Organisation - Leo Garciga - 2017
 
 [All Day DevOps 2017 - Youtube](https://www.youtube.com/watch?v=LNL5J6gIkv0)
 
@@ -59,11 +58,11 @@ Software Stack: [Docker](https://www.docker.com/), [Jira](https://de.atlassian.c
 
 ![2017-garciga-2](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2017-garciga-2.JPG)
 
-### DevOps Audit Defense Toolkit - IT Revolution - 2015
+## DevOps Audit Defense Toolkit - IT Revolution - 2015
 
 [DevOps Audit Defense Toolkit - IT Revolution](https://itrevolution.com/devops-audit-defense-toolkit/)
 [DevOps Audit Defense Toolkit - PDF Link](https://dl.orangedox.com/audit-defense)
 
-The Toolkit summarizes the techniques they use to mitigate risk, and also provides a section answering the most common questions about value creation, compliance, and DevOps. The information in this document should help organizations wanting to pursue DevOps and continuous delivery explain their approach and improve communication between IT and audit
+The Toolkit summarizes the techniques they use to mitigate risk, and also provides a section answering the most common questions about value creation, compliance, and DevOps. The information in this document should help organizations wanting to pursue DevOps and continuous delivery explain their approach and improve communication between IT and audit.
 
 ![2015-audit-defense](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2015-audit-defense.JPG)
