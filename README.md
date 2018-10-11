@@ -66,3 +66,11 @@ Software Stack: [Docker](https://www.docker.com/), [Jira](https://de.atlassian.c
 The Toolkit summarizes the techniques they use to mitigate risk, and also provides a section answering the most common questions about value creation, compliance, and DevOps. The information in this document should help organizations wanting to pursue DevOps and continuous delivery explain their approach and improve communication between IT and audit.
 
 ![2015-audit-defense](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2015-audit-defense.JPG)
+
+## DevSecOps Cycle - Larry Maccherone - 2017
+
+[Twitter Post](https://twitter.com/LMaccherone/status/843644744538427392)
+
+Fully annotated DevSecOps cycle with threat modeling, code review, abuse case tests, pentest, compliance validation, config validation, logging, monitoring, intrusion detection.
+
+![2017-devsecops-cycle-maccherone](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2017-devsecops-cycle-maccherone.JPG)
