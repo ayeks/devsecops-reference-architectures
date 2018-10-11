@@ -2,7 +2,7 @@
 
 This is a collection of DevSecOps reference architectures. I was tired of crawling through low resolution slideshares and email-grabbing web forms, therefore I started this repo to share reference architectures - for free - for everyone.
 
-## Contributing
+### Contributing
 
 Feel free to contribute via pull requests or issues. If you find slides in a higher quality, please let me know!
 
@@ -13,6 +13,12 @@ Please provide the following data for new architectures:
 * Optional: Link to the source for more information
 * Optional: Summary of the architecture. What makes it special? Where does it differentiate? What is the problem it solves?
 * Optional: Software stack. That makes it easier to search for architectures that use a specific tool.
+
+### Acknowledgements
+
+Thanks to [Sonatype](https://sonatype.com) and their [reference architecture slideset](https://de.sonatype.com/devsecops-reference-architectures) ([mirror](https://waterplacid.files.wordpress.com/2018/04/devsecops-reference-architectures-2018.pdf)). 
+
+Most of the referenced tools can be found in the more structured [Awesome DevSecOps list](https://github.com/devsecops/awesome-devsecops).
 
 ## Architectures
 
