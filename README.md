@@ -1,4 +1,5 @@
 # DevSecOps Reference Architectures
+[![Build Status](https://travis-ci.org/ayeks/devsecops-reference-architectures.svg?branch=master)](https://travis-ci.org/ayeks/devsecops-reference-architectures)
 
 This is a collection of DevSecOps reference architectures. I was tired of crawling through low resolution slideshares and email-grabbing web forms, therefore I started this repo to share reference architectures - for free - for everyone - for contributing.
 
