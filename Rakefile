@@ -28,7 +28,8 @@ task :validate_markdown do
     :url_ignore => [
       "https://www.tcell.io/",
       "https://www.twistlock.com/",
-      "https://www.cloudpassage.com/product/"
+      "https://www.cloudpassage.com/cloud-computing-security/",
+      "https://twitter.com/LMaccherone/status/843644744538427392",
     ],
     :http_status_ignore => [429]
   }

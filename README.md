@@ -41,7 +41,7 @@ Software Stack: [Bandit](https://github.com/PyCQA/bandit), [OWASP Dependency-Che
 
 How do you build security and compliance into your DevOps platforms and pipelines? With this O’Reilly report, security analysts, security engineers, and pen testers will learn how to leverage the same processes and tools—such as version control, containers, and Continuous Delivery—that DevOps practitioners use to automate software delivery and infrastructure changes. In other words, you’ll understand how to use DevOps to secure DevOps.
 
-Software Stack: [Upguard](https://www.upguard.com/), [Gauntlt](http://gauntlt.org/), [OWASP Dependency-Check](https://www.owasp.org/index.php/OWASP_Dependency_Check), [Bundler Audit](https://github.com/rubysec/bundler-audit), [Retire.js](http://retirejs.github.io/retire.js/), [OWASP SafeNuGet](https://www.owasp.org/index.php/OWASP_SafeNuGet), [Gerrit](https://www.gerritcodereview.com/), [Phabricator](https://www.phacility.com/), [Atlassian Crucible](https://www.atlassian.com/software/crucible), [Sonarqube](https://www.sonarqube.org/), [OWASP ZAP](https://www.owasp.org/index.php/ZAP), [Mittn](https://github.com/F-Secure/mittn), [Chef Vault](https://github.com/chef/chef-vault), [Keywhiz](https://github.com/square/keywhiz), [HashiCorp Vault](https://www.vaultproject.io/), [Netflix SimianArmy](https://github.com/Netflix/SimianArmy), [Signal Sciences](https://www.signalsciences.com/products/), [Alert Logic](https://www.alertlogic.com/), [CloudPassage Halo](https://www.cloudpassage.com/products/), [Dome9 SecOps](https://dome9.com/), [Evident](https://www.paloaltonetworks.com/products/secure-the-cloud/evident.html), [Illumio](https://www.illumio.com/), [Threat Stack](https://www.threatstack.com/), [Waratek](https://www.waratek.com/), [Prevoty](https://www.prevoty.com/), [Contrast Security](https://www.contrastsecurity.com/runtime-application-self-protection-rasp), [tCell](https://www.tcell.io/), [Twistlock](https://www.twistlock.com/),  [DevOps Audit Defense Toolkit](https://itrevolution.com/devops-audit-defense-toolkit/), 
+Software Stack: [Upguard](https://www.upguard.com/), [Gauntlt](http://gauntlt.org/), [OWASP Dependency-Check](https://www.owasp.org/index.php/OWASP_Dependency_Check), [Bundler Audit](https://github.com/rubysec/bundler-audit), [Retire.js](http://retirejs.github.io/retire.js/), [OWASP SafeNuGet](https://www.owasp.org/index.php/OWASP_SafeNuGet), [Gerrit](https://www.gerritcodereview.com/), [Phabricator](https://www.phacility.com/), [Atlassian Crucible](https://www.atlassian.com/software/crucible), [Sonarqube](https://www.sonarqube.org/), [OWASP ZAP](https://www.owasp.org/index.php/ZAP), [Mittn](https://github.com/F-Secure/mittn), [Chef Vault](https://github.com/chef/chef-vault), [Keywhiz](https://github.com/square/keywhiz), [HashiCorp Vault](https://www.vaultproject.io/), [Netflix SimianArmy](https://github.com/Netflix/SimianArmy), [Signal Sciences](https://www.signalsciences.com/products/), [Alert Logic](https://www.alertlogic.com/), [CloudPassage Halo](https://www.cloudpassage.com/cloud-computing-security/), [Dome9 SecOps](https://dome9.com/), [Evident](https://www.paloaltonetworks.com/products/secure-the-cloud/evident.html), [Illumio](https://www.illumio.com/), [Threat Stack](https://www.threatstack.com/), [Waratek](https://www.waratek.com/), [Prevoty](https://www.prevoty.com/), [Contrast Security](https://www.contrastsecurity.com/runtime-application-self-protection-rasp), [tCell](https://www.tcell.io/), [Twistlock](https://www.twistlock.com/),  [DevOps Audit Defense Toolkit](https://itrevolution.com/devops-audit-defense-toolkit/), 
 
 ![2016-bird-1](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2016-bird-1.JPG)
 
@@ -53,7 +53,7 @@ Software Stack: [Upguard](https://www.upguard.com/), [Gauntlt](http://gauntlt.or
 
 The talk goes into detail why they went DevOps, how DevOps can be secure according to NIST SP 800, how automation prevents human error and reduces human delay.
 
-Software Stack: [Docker](https://www.docker.com/), [Jira](https://de.atlassian.com/software/jira), [Jenkins](https://jenkins.io/), [Selenium](https://www.seleniumhq.org/), [Twistlock](https://www.twistlock.com/), [Sonarqube](https://www.sonarqube.org/), [Sonatype](https://www.sonatype.com/), [Maven](https://maven.apache.org/)
+Software Stack: [Docker](https://www.docker.com/), [Jira](https://de.atlassian.com/software/jira), [Jenkins](https://jenkins.io/), [Selenium](https://www.seleniumhq.org/), [Twistlock](https://www.twistlock.com/), [Sonarqube](https://www.sonarqube.org/), [Sonatype](https://www.sonatype.com/), Apache Maven
 
 ![2017-garciga-1](https://github.com/ayeks/devsecops-reference-architectures/blob/master/img/2017-garciga-1.JPG)
 
@@ -62,7 +62,6 @@ Software Stack: [Docker](https://www.docker.com/), [Jira](https://de.atlassian.c
 ## DevOps Audit Defense Toolkit - IT Revolution - 2015
 
 * [DevOps Audit Defense Toolkit - IT Revolution](https://itrevolution.com/devops-audit-defense-toolkit/)
-* [DevOps Audit Defense Toolkit - PDF Link](https://dl.orangedox.com/audit-defense)
 
 The Toolkit summarizes the techniques they use to mitigate risk, and also provides a section answering the most common questions about value creation, compliance, and DevOps. The information in this document should help organizations wanting to pursue DevOps and continuous delivery explain their approach and improve communication between IT and audit.
 
@@ -78,7 +77,7 @@ Fully annotated DevSecOps cycle with threat modeling, code review, abuse case te
 
 ## Practical DevSecOps / DevSecOps Studio Project - TeachEra - 2017
 
-* [Teachera - DevSecOps Course](https://www.teachera.io/devsecops-course/),
+* Teachera - DevSecOps Course (Teachera is not longer active)
 * [Practical DevSecOps Course - Part 1 - Slideshare](https://www.slideshare.net/secfigo/practical-devsecops-course-part-1-82334619),
 * [DevSecOps Studio Project - GitHub](https://github.com/teacheraio/DevSecOps-Studio/)
 
